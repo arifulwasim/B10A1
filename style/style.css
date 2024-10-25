@@ -7,7 +7,6 @@
     margin: 0px;
     padding: 0px;
     font-family: "Azeret Mono", monospace;
-
 }
 
 .container {
@@ -51,7 +50,7 @@ nav h2 {
     background: url(../assets/Hero-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 850px;
+    height: 840px;
 }
 
 .banner-content {
